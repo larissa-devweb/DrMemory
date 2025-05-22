@@ -4,7 +4,7 @@ Explicando como usar:
 * Crie um executavel do meu projeto:
    ---Se windows:
    1. vazamento.c
-   2. Abre o terminal e cd C:\Users\SeuUsuario\Desktop
+   2. Abre o terminal , executando como admistrador e cd C:\Users\SeuUsuario\Desktop
    3. gcc vazamento.c -o vazamento.exe
    4.drmemory -- vazamento.exe
 
